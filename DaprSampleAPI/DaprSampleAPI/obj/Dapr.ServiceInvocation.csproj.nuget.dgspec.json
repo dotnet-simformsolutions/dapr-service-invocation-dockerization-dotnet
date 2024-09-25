@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\DaprSampleAPI\\Dapr.ServiceInvocation.csproj": {}
+  },
+  "projects": {
+    "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\DaprSampleAPI\\Dapr.ServiceInvocation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\DaprSampleAPI\\Dapr.ServiceInvocation.csproj",
+        "projectName": "Dapr.ServiceInvocation",
+        "projectPath": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\DaprSampleAPI\\Dapr.ServiceInvocation.csproj",
+        "packagesPath": "C:\\Users\\nilesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\DaprSampleAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nilesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\GCTS\\Local Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/USConnect/LYNK/_packaging/USCFeedNew/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/gbutler325/3a3a1a3e-2925-4f8b-ac24-d470dd173ece/_packaging/USCFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

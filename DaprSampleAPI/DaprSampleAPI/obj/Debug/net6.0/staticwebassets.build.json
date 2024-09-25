@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eka/Lt7k/4KfnONqsb+xzmBQj6y5QvHU0WBtbp7Y0Ug=",
+  "Source": "Dapr.ServiceInvocation",
+  "BasePath": "_content/Dapr.ServiceInvocation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

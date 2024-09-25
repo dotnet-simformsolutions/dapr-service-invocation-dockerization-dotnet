@@ -1,0 +1,64 @@
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\appsettings.Development.json
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\appsettings.json
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\Dapr.OrderProcessor.exe
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\Dapr.OrderProcessor.deps.json
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\Dapr.OrderProcessor.runtimeconfig.json
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\Dapr.OrderProcessor.dll
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\Dapr.OrderProcessor.pdb
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.csproj.AssemblyReference.cache
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.AssemblyInfoInputs.cache
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.AssemblyInfo.cs
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.csproj.CoreCompileInputs.cache
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.MvcApplicationPartsAssemblyInfo.cs
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.MvcApplicationPartsAssemblyInfo.cache
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\staticwebassets\msbuild.Dapr.OrderProcessor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\staticwebassets\msbuild.build.Dapr.OrderProcessor.props
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dapr.OrderProcessor.props
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dapr.OrderProcessor.props
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\staticwebassets.build.json
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\staticwebassets.development.json
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\scopedcss\bundle\Dapr.OrderProcessor.styles.css
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.csproj.CopyComplete
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.dll
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\refint\Dapr.OrderProcessor.dll
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.pdb
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.genruntimeconfig.cache
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\ref\Dapr.OrderProcessor.dll
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\appsettings.Development.json
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\appsettings.json
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\Dapr.OrderProcessor.exe
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\Dapr.OrderProcessor.deps.json
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\Dapr.OrderProcessor.runtimeconfig.json
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\Dapr.OrderProcessor.dll
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\Dapr.OrderProcessor.pdb
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.csproj.AssemblyReference.cache
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.AssemblyInfoInputs.cache
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.AssemblyInfo.cs
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.csproj.CoreCompileInputs.cache
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.MvcApplicationPartsAssemblyInfo.cs
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.MvcApplicationPartsAssemblyInfo.cache
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\staticwebassets.build.json
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\staticwebassets.development.json
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\staticwebassets\msbuild.Dapr.OrderProcessor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\staticwebassets\msbuild.build.Dapr.OrderProcessor.props
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dapr.OrderProcessor.props
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dapr.OrderProcessor.props
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\scopedcss\bundle\Dapr.OrderProcessor.styles.css
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.Ord.1B8777F3.Up2Date
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.dll
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\refint\Dapr.OrderProcessor.dll
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.pdb
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\Dapr.OrderProcessor.genruntimeconfig.cache
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\Libs\Dapr.OrderProcessor\obj\Debug\net6.0\ref\Dapr.OrderProcessor.dll

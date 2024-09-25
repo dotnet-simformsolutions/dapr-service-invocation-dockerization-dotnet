@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  dapr.orderprocessor:
+    image: ${DOCKER_REGISTRY-}daprorderprocessor
+    build:
+      context: .
+      dockerfile: Libs/Dapr.OrderProcessor/Dockerfile
+
+  dapr.serviceinvocation:
+    image: ${DOCKER_REGISTRY-}daprserviceinvocation
+    build:
+      context: .
+      dockerfile: DaprSampleAPI/Dockerfile
+

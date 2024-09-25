@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7D177A-F7FA-4BA1-8B28-83BA6F8464BA}|DaprSampleAPI\\Dapr.ServiceInvocation.csproj|c:\\backup\\2024 goal\\blog\\service_invocation\\daprsampleapi\\daprsampleapi\\controllers\\serviceinvocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7D177A-F7FA-4BA1-8B28-83BA6F8464BA}|DaprSampleAPI\\Dapr.ServiceInvocation.csproj|solutionrelative:daprsampleapi\\controllers\\serviceinvocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEE2015-4E8F-4151-90BE-9F10688A6F1B}|Libs\\Dapr.OrderProcessor\\Dapr.OrderProcessor.csproj|C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\libs\\dapr.orderprocessor\\controllers\\orderprocessorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEE2015-4E8F-4151-90BE-9F10688A6F1B}|Libs\\Dapr.OrderProcessor\\Dapr.OrderProcessor.csproj|solutionrelative:libs\\dapr.orderprocessor\\controllers\\orderprocessorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7D177A-F7FA-4BA1-8B28-83BA6F8464BA}|DaprSampleAPI\\Dapr.SampleAPI.csproj|C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\daprsampleapi\\controllers\\serviceinvocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7D177A-F7FA-4BA1-8B28-83BA6F8464BA}|DaprSampleAPI\\Dapr.SampleAPI.csproj|solutionrelative:daprsampleapi\\controllers\\serviceinvocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975B1840-E843-48ED-9F7C-DED485EB3047}|docker-compose.dcproj|c:\\backup\\2024 goal\\blog\\service_invocation\\daprsampleapi\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{975B1840-E843-48ED-9F7C-DED485EB3047}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975B1840-E843-48ED-9F7C-DED485EB3047}|docker-compose.dcproj|c:\\backup\\2024 goal\\blog\\service_invocation\\daprsampleapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{975B1840-E843-48ED-9F7C-DED485EB3047}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEE2015-4E8F-4151-90BE-9F10688A6F1B}|Libs\\Dapr.OrderProcessor\\Dapr.OrderProcessor.csproj|c:\\backup\\2024 goal\\blog\\service_invocation\\daprsampleapi\\libs\\dapr.orderprocessor\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1FEE2015-4E8F-4151-90BE-9F10688A6F1B}|Libs\\Dapr.OrderProcessor\\Dapr.OrderProcessor.csproj|solutionrelative:libs\\dapr.orderprocessor\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7D177A-F7FA-4BA1-8B28-83BA6F8464BA}|DaprSampleAPI\\Dapr.ServiceInvocation.csproj|c:\\backup\\2024 goal\\blog\\service_invocation\\daprsampleapi\\daprsampleapi\\dapr.serviceinvocation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FC7D177A-F7FA-4BA1-8B28-83BA6F8464BA}|DaprSampleAPI\\Dapr.ServiceInvocation.csproj|solutionrelative:daprsampleapi\\dapr.serviceinvocation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEE2015-4E8F-4151-90BE-9F10688A6F1B}|Libs\\Dapr.OrderProcessor\\Dapr.OrderProcessor.csproj|c:\\backup\\2024 goal\\blog\\service_invocation\\daprsampleapi\\libs\\dapr.orderprocessor\\dapr.orderprocessor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1FEE2015-4E8F-4151-90BE-9F10688A6F1B}|Libs\\Dapr.OrderProcessor\\Dapr.OrderProcessor.csproj|solutionrelative:libs\\dapr.orderprocessor\\dapr.orderprocessor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7D177A-F7FA-4BA1-8B28-83BA6F8464BA}|DaprSampleAPI\\Dapr.SampleAPI.csproj|C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\daprsampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7D177A-F7FA-4BA1-8B28-83BA6F8464BA}|DaprSampleAPI\\Dapr.SampleAPI.csproj|solutionrelative:daprsampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEE2015-4E8F-4151-90BE-9F10688A6F1B}|Libs\\Dapr.OrderProcessor\\Dapr.OrderProcessor.csproj|C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\libs\\dapr.orderprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEE2015-4E8F-4151-90BE-9F10688A6F1B}|Libs\\Dapr.OrderProcessor\\Dapr.OrderProcessor.csproj|solutionrelative:libs\\dapr.orderprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceInvocation.cs",
+              "DocumentMoniker": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\DaprSampleAPI\\Controllers\\ServiceInvocation.cs",
+              "RelativeDocumentMoniker": "DaprSampleAPI\\Controllers\\ServiceInvocation.cs",
+              "ToolTip": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\DaprSampleAPI\\Controllers\\ServiceInvocation.cs",
+              "RelativeToolTip": "DaprSampleAPI\\Controllers\\ServiceInvocation.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwB0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:26:28.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-21T14:30:49.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-21T14:30:47.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\Libs\\Dapr.OrderProcessor\\Dockerfile",
+              "RelativeDocumentMoniker": "Libs\\Dapr.OrderProcessor\\Dockerfile",
+              "ToolTip": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\Libs\\Dapr.OrderProcessor\\Dockerfile",
+              "RelativeToolTip": "Libs\\Dapr.OrderProcessor\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-21T14:30:42.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderProcessorController.cs",
+              "DocumentMoniker": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\Libs\\Dapr.OrderProcessor\\Controllers\\OrderProcessorController.cs",
+              "RelativeDocumentMoniker": "Libs\\Dapr.OrderProcessor\\Controllers\\OrderProcessorController.cs",
+              "ToolTip": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\Libs\\Dapr.OrderProcessor\\Controllers\\OrderProcessorController.cs",
+              "RelativeToolTip": "Libs\\Dapr.OrderProcessor\\Controllers\\OrderProcessorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:53:16.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceInvocation.cs",
+              "DocumentMoniker": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\DaprSampleAPI\\Controllers\\ServiceInvocation.cs",
+              "RelativeDocumentMoniker": "DaprSampleAPI\\Controllers\\ServiceInvocation.cs",
+              "ToolTip": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\DaprSampleAPI\\Controllers\\ServiceInvocation.cs",
+              "RelativeToolTip": "DaprSampleAPI\\Controllers\\ServiceInvocation.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:53:16.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dapr.ServiceInvocation",
+              "DocumentMoniker": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\DaprSampleAPI\\Dapr.ServiceInvocation.csproj",
+              "RelativeDocumentMoniker": "DaprSampleAPI\\Dapr.ServiceInvocation.csproj",
+              "ToolTip": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\DaprSampleAPI\\Dapr.ServiceInvocation.csproj",
+              "RelativeToolTip": "DaprSampleAPI\\Dapr.ServiceInvocation.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T13:40:14.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAABICAAAAAAAAAAAIwB4CAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-21T13:43:15.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAFkTAAAAAAAAAAAnwGYTAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-21T13:42:15.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dapr.OrderProcessor",
+              "DocumentMoniker": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\Libs\\Dapr.OrderProcessor\\Dapr.OrderProcessor.csproj",
+              "RelativeDocumentMoniker": "Libs\\Dapr.OrderProcessor\\Dapr.OrderProcessor.csproj",
+              "ToolTip": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\Libs\\Dapr.OrderProcessor\\Dapr.OrderProcessor.csproj",
+              "RelativeToolTip": "Libs\\Dapr.OrderProcessor\\Dapr.OrderProcessor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T13:40:02.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AQIAAJsBAAAAAAAAAAAnwKgBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-21T13:39:20.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\DaprSampleAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DaprSampleAPI\\Program.cs",
+              "ToolTip": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\DaprSampleAPI\\Program.cs",
+              "RelativeToolTip": "DaprSampleAPI\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:53:16.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\Libs\\Dapr.OrderProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "Libs\\Dapr.OrderProcessor\\Program.cs",
+              "ToolTip": "C:\\Backup\\2024 Goal\\Blog\\Service_Invocation\\DaprSampleAPI\\Libs\\Dapr.OrderProcessor\\Program.cs",
+              "RelativeToolTip": "Libs\\Dapr.OrderProcessor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:53:16.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

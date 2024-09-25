@@ -1,0 +1,21 @@
+C:\Backup\Dapr.io\DaprProjectAPI\DaprSampleAPI\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\bin\Debug\appsettings.Development.json
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\bin\Debug\appsettings.json
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\bin\Debug\Dapr.OrderProcessor.deps.json
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\bin\Debug\Dapr.OrderProcessor.runtimeconfig.json
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\bin\Debug\Dapr.OrderProcessor.exe
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\bin\Debug\Dapr.SampleAPI.deps.json
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\bin\Debug\Dapr.SampleAPI.runtimeconfig.json
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\bin\Debug\Dapr.SampleAPI.exe
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\bin\Debug\Dapr.OrderProcessor.dll
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\bin\Debug\Dapr.SampleAPI.dll
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\bin\Debug\Microsoft.OpenApi.dll
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\bin\Debug\Dapr.OrderProcessor.pdb
+C:\Backup\Dapr.io\dapr-microservice-api\DaprSampleAPI\bin\Debug\Dapr.SampleAPI.pdb
+C:\Backup\2024 Goal\Blog\Service_Invocation\DaprSampleAPI\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

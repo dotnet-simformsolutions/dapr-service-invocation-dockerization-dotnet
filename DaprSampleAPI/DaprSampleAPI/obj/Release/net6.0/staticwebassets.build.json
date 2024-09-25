@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V20kGwN5PPtj+IMi9NCX3Oz5aHvEMabduBEGdxEHEhA=",
+  "Source": "DaprSampleAPI",
+  "BasePath": "_content/DaprSampleAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

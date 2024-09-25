@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PbJMl1qw5x4aNvf0N+zWuJdggexcorPzXUuUc8xw5VI=",
+  "Source": "Dapr.OrderProcessor",
+  "BasePath": "_content/Dapr.OrderProcessor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
