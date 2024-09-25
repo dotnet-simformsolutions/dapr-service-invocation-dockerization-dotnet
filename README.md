@@ -21,13 +21,15 @@ service-to-service calls. In this project, we have created two separate service 
 		winget install Dapr.CLI
 		```
 3. Install the Dapr client library for .NET:
-		```bash	
-	dotnet add package Dapr.AspNetCore
-			```
-4. Register the Dapr client in your Program.cs:
-		```bash	
-	builder.Services.AddDaprClient();
-		```
+   
+   
+		dotnet add package Dapr.AspNetCore
+   
+5. Register the Dapr client in your Program.cs:
+   
+   
+		builder.Services.AddDaprClient();
+   
 ## Installation and Setup
 * Now Run Both Services with Docker Compose
 	To run both services using Docker Compose, simply use the following commands:
